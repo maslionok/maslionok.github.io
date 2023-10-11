@@ -1,0 +1,27 @@
+.paragraphing {
+  color: blue;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: aqua;
+  padding: 20px;
+}
+
+
+#unique-paragraph {
+  background-color: yellow;
+  font-style: italic;
+}
+
+a:hover {
+  color: #FF0000; 
+}
+
+h1  {
+  text-align: center;
+  font-size: 40px;
+} 
+
+.changing-model-box {
+  border: 2px solid red;
+  width: 300px; /
+}
